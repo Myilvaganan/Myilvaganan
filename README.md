@@ -28,13 +28,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Myilvaganan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Myil's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Myilvaganan/python-project-blueprint">
+<a href="https://github.com/Myilvaganan/DevConnector">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Myilvaganan&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/Myilvaganan/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Myilvaganan&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Myilvaganan/florashop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Myilvaganan&repo=florashop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <h3 align="left">Connect with me:</h3>

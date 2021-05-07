@@ -19,6 +19,24 @@
 
 - ⚡ Fun fact **I am humorous**
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Myilvaganan/Myilvaganan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myilvaganan&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Myilvaganan/Myilvaganan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Myilvaganan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Myil's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Myilvaganan/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Myilvaganan&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/Myilvaganan/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Myilvaganan&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/myilvaganan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="myilvaganan" height="30" width="40" /></a>

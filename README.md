@@ -30,16 +30,16 @@
 </a>
 
 <a href="https://github.com/Myilvaganan/DevConnector">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Myilvaganan&repo=DevConnector&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Myilvaganan&repo=Developers-Connector-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Myilvaganan/ExpenseManager-MERN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Myilvaganan&repo=ExpenseManager-MERN&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Myilvaganan&repo=Expense-Manager&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Myilvaganan/myilportfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Myilvaganan&repo=myilportfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Myilvaganan/florashop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Myilvaganan&repo=florashop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Myilvaganan&repo=Florashop-E-commerce-Site&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <h3 align="left">Connect with me:</h3>

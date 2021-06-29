@@ -46,7 +46,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/myilvaganan" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fpsa.org%2Ffpsa-womens-alliance%2Flinkedin-logo-copy%2F&psig=AOvVaw3A3JPzArLr_cJxpziwKI3S&ust=1625061350390000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNiR9rX_vPECFQAAAAAdAAAAABAD" alt="myilvaganan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/myilvaganan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="myilvaganan" height="30" width="40" /></a>
-<a href="https://instagram.com/myil_passion_photographer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="myil_passion_photographer" height="30" width="40" /></a>
+<a href="https://instagram.com/tamizh_nesam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="myil_passion_photographer" height="30" width="40" /></a>
 <a href="https://www.behance.net/myilvaganan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/behance.svg" alt="myilvaganan" height="30" width="40" /></a>
 </p>
 

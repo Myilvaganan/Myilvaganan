@@ -66,13 +66,8 @@ This GitHub profile showcases:
 
 ## 📫 Let’s Connect
 
-* **LinkedIn:** *(add link)*
-* **Email:** *(add email)*
+* **LinkedIn:** *https://www.linkedin.com/in/myilvaganan/*
+* **Email:** *myilsmp@gmail.com*
 * **GitHub:** You’re already here 🙂
 
----
-
-### ⭐ Note
-
-Most repositories focus on **clarity, scalability, and real-world applicability** rather than toy examples.
 
